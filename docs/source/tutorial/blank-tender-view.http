@@ -1,4 +1,4 @@
-GET /api/0.12/tenders/e3e16eb63b584378b75d9eb01dc2f8b9 HTTP/1.0
+GET /api/0.12/tenders/af13521637c74f7aaf9f1d52782e99f1 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -8,10 +8,10 @@ Content-Type: application/json; charset=UTF-8
   "data": {
     "procurementMethod": "open", 
     "status": "active.tendering", 
-    "tenderID": "UA-2016-02-24-000001", 
+    "tenderID": "UA-2016-03-08-000001", 
     "tenderPeriod": {
-      "startDate": "2016-02-24T14:13:33.962169+02:00", 
-      "endDate": "2016-03-26T14:13:20.159080+02:00"
+      "startDate": "2016-03-08T16:32:04.086598+02:00", 
+      "endDate": "2016-04-08T16:31:47.561487+02:00"
     }, 
     "title": "Послуги шкільних їдалень", 
     "minimalStep": {
@@ -21,8 +21,8 @@ Content-Type: application/json; charset=UTF-8
     }, 
     "procurementMethodType": "aboveThresholdEU", 
     "complaintPeriod": {
-      "startDate": "2016-02-24T14:13:33.962169+02:00", 
-      "endDate": "2016-03-22T14:13:20.159080+02:00"
+      "startDate": "2016-03-08T16:32:04.086598+02:00", 
+      "endDate": "2016-04-04T16:31:47.561487+02:00"
     }, 
     "title_en": "Services in school canteens", 
     "value": {
@@ -31,7 +31,7 @@ Content-Type: application/json; charset=UTF-8
       "valueAddedTaxIncluded": true
     }, 
     "submissionMethod": "electronicAuction", 
-    "next_check": "2016-03-26T14:13:20.159080+02:00", 
+    "next_check": "2016-04-08T17:31:47.561487+03:00", 
     "procuringEntity": {
       "contactPoint": {
         "url": "http://sch10.edu.vn.ua/", 
@@ -57,11 +57,11 @@ Content-Type: application/json; charset=UTF-8
       "name": "ЗОСШ #10 м.Вінниці"
     }, 
     "enquiryPeriod": {
-      "startDate": "2016-02-24T14:13:33.962169+02:00", 
-      "endDate": "2016-03-23T14:13:20.159080+02:00"
+      "startDate": "2016-03-08T16:32:04.086598+02:00", 
+      "endDate": "2016-03-29T16:31:47.561487+02:00"
     }, 
     "owner": "broker", 
-    "dateModified": "2016-02-24T14:13:34.046510+02:00", 
+    "dateModified": "2016-03-08T16:32:04.252528+02:00", 
     "items": [
       {
         "description": "Послуги шкільних їдалень", 
@@ -78,7 +78,7 @@ Content-Type: application/json; charset=UTF-8
             "description": "Послуги шкільних їдалень"
           }
         ], 
-        "id": "49d33a35c06f4eeeba5ea2899333d211", 
+        "id": "06affbb4b90e482fb3163dcca47255be", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -100,7 +100,7 @@ Content-Type: application/json; charset=UTF-8
             "description": "Послуги шкільних їдалень"
           }
         ], 
-        "id": "b2d683c9c6624518a6d084b156add5ce", 
+        "id": "78d669fde4a041228b824c2151085d2a", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -108,7 +108,7 @@ Content-Type: application/json; charset=UTF-8
         "quantity": 1
       }
     ], 
-    "id": "e3e16eb63b584378b75d9eb01dc2f8b9", 
+    "id": "af13521637c74f7aaf9f1d52782e99f1", 
     "awardCriteria": "lowestCost"
   }
 }

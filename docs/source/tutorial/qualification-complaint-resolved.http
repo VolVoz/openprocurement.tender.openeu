@@ -1,4 +1,4 @@
-PATCH /api/0.12/tenders/873425a6097c41e9989714458f2dfee2/qualifications/564c391824634978964dcae6a798eb7e/complaints/991f4ac6948b488d8bbdd17af076451c?acc_token=add77eee80db4b4582f0a56f7d8e57cd HTTP/1.0
+PATCH /api/0.12/tenders/ea5d68674ac847f887792dc42191b192/qualifications/c0e7730a0b884d2797db310ea4b88083/complaints/699f247a7b8b4016abd9d4b75e44b7fd?acc_token=60941a181c9447c8ae40216d4ee7dcdf HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 145
 Content-Type: application/json
@@ -16,8 +16,8 @@ Content-Type: application/json; charset=UTF-8
 {
   "data": {
     "status": "resolved", 
-    "dateDecision": "2016-03-07T12:56:19.352399+02:00", 
-    "tendererActionDate": "2016-03-07T12:56:19.822135+02:00", 
+    "dateDecision": "2016-03-08T16:32:25.589270+02:00", 
+    "tendererActionDate": "2016-03-08T16:32:26.106622+02:00", 
     "description": "Умови виставлені замовником не містять достатньо інформації, щоб заявка мала сенс.", 
     "author": {
       "contactPoint": {
@@ -41,11 +41,11 @@ Content-Type: application/json; charset=UTF-8
       }
     }, 
     "title": "Недостатньо інформації", 
-    "id": "991f4ac6948b488d8bbdd17af076451c", 
+    "id": "699f247a7b8b4016abd9d4b75e44b7fd", 
     "tendererAction": "Умови виправлено", 
-    "dateSubmitted": "2016-03-07T12:56:17.478486+02:00", 
-    "complaintID": "UA-2016-03-07-000001.1", 
-    "date": "2016-03-07T12:56:17.166417+02:00", 
+    "dateSubmitted": "2016-03-08T16:32:23.426559+02:00", 
+    "complaintID": "UA-2016-03-08-000001.1", 
+    "date": "2016-03-08T16:32:22.803938+02:00", 
     "acceptance": true, 
     "type": "complaint", 
     "documents": [
@@ -53,26 +53,26 @@ Content-Type: application/json; charset=UTF-8
         "author": "complaint_owner", 
         "language": "uk", 
         "title": "Complaint_Attachement.pdf", 
-        "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/873425a6097c41e9989714458f2dfee2/qualifications/564c391824634978964dcae6a798eb7e/complaints/991f4ac6948b488d8bbdd17af076451c/documents/eeed472de38748149b7d1926f2989d71?download=2044be62d46b40899a435fd0e29cd69e", 
+        "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/ea5d68674ac847f887792dc42191b192/qualifications/c0e7730a0b884d2797db310ea4b88083/complaints/699f247a7b8b4016abd9d4b75e44b7fd/documents/da2aff1472184b28ac8b7130d5575d93?download=b1cd9c835eb6466ab5a15944307f648e", 
         "format": "application/pdf", 
         "documentOf": "tender", 
-        "datePublished": "2016-03-07T12:56:17.310175+02:00", 
-        "id": "eeed472de38748149b7d1926f2989d71", 
-        "dateModified": "2016-03-07T12:56:17.310215+02:00"
+        "datePublished": "2016-03-08T16:32:23.000808+02:00", 
+        "id": "da2aff1472184b28ac8b7130d5575d93", 
+        "dateModified": "2016-03-08T16:32:23.000860+02:00"
       }, 
       {
         "author": "aboveThresholdReviewers", 
         "language": "uk", 
         "title": "ComplaintResolution.pdf", 
-        "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/873425a6097c41e9989714458f2dfee2/qualifications/564c391824634978964dcae6a798eb7e/complaints/991f4ac6948b488d8bbdd17af076451c/documents/21e9360253df40cbb584f58acc22074e?download=00008e4317194430bad4f265e7f9d0b7", 
+        "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/ea5d68674ac847f887792dc42191b192/qualifications/c0e7730a0b884d2797db310ea4b88083/complaints/699f247a7b8b4016abd9d4b75e44b7fd/documents/86c7f0f13b904d86acc273a4fe5282c0?download=e88b58c46109495898bba65758308777", 
         "format": "application/pdf", 
         "documentOf": "tender", 
-        "datePublished": "2016-03-07T12:56:19.105519+02:00", 
-        "id": "21e9360253df40cbb584f58acc22074e", 
-        "dateModified": "2016-03-07T12:56:19.105566+02:00"
+        "datePublished": "2016-03-08T16:32:25.321143+02:00", 
+        "id": "86c7f0f13b904d86acc273a4fe5282c0", 
+        "dateModified": "2016-03-08T16:32:25.321181+02:00"
       }
     ], 
-    "dateAccepted": "2016-03-07T12:56:18.651435+02:00"
+    "dateAccepted": "2016-03-08T16:32:24.838286+02:00"
   }
 }
 

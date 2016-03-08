@@ -1,23 +1,23 @@
-POST /api/0.12/tenders/e3e16eb63b584378b75d9eb01dc2f8b9/bids/c41709780fa8434399c62a1facf369cb/documents?acc_token=d0d0cebbaeba447da04fe765210a4ee8 HTTP/1.0
+POST /api/0.12/tenders/af13521637c74f7aaf9f1d52782e99f1/bids/04cdf298020a4852a67b250d3e04290e/documents?acc_token=9f5d35b846f1459ba3ad4e4ea1535393 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 188
-Content-Type: multipart/form-data; boundary=----------a_BoUnDaRy423255516917$
+Content-Type: multipart/form-data; boundary=----------a_BoUnDaRy802646748848$
 Host: api-sandbox.openprocurement.org
 
 Response: 201 Created
 Content-Type: application/json; charset=UTF-8
-Location: http://api-sandbox.openprocurement.org/api/0.12/tenders/e3e16eb63b584378b75d9eb01dc2f8b9/bids/c41709780fa8434399c62a1facf369cb/documents/a05aff4e91c942bbad7e49e551399ec7
+Location: http://api-sandbox.openprocurement.org/api/0.12/tenders/af13521637c74f7aaf9f1d52782e99f1/bids/04cdf298020a4852a67b250d3e04290e/documents/d164ed37c7cb43e2892e5f0b9dd41447
 {
   "data": {
     "confidentiality": "public", 
     "language": "uk", 
     "title": "Proposal.pdf", 
-    "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/e3e16eb63b584378b75d9eb01dc2f8b9/bids/c41709780fa8434399c62a1facf369cb/documents/a05aff4e91c942bbad7e49e551399ec7?download=d0984048f149465699fd402bfe20881c", 
+    "url": "http://api-sandbox.openprocurement.org/api/0.12/tenders/af13521637c74f7aaf9f1d52782e99f1/bids/04cdf298020a4852a67b250d3e04290e/documents/d164ed37c7cb43e2892e5f0b9dd41447?download=9f3440ee641748eda6c459af17446ea8", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2016-02-24T14:13:36.127526+02:00", 
-    "id": "a05aff4e91c942bbad7e49e551399ec7", 
-    "dateModified": "2016-02-24T14:13:36.127580+02:00"
+    "datePublished": "2016-03-08T16:32:06.762571+02:00", 
+    "id": "d164ed37c7cb43e2892e5f0b9dd41447", 
+    "dateModified": "2016-03-08T16:32:06.762611+02:00"
   }
 }
 
